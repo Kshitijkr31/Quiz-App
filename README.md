@@ -1,2 +1,3 @@
 # Quiz-App
-let's time to take a Quiz
+
+Hey!! this is Quiz App based on JAVA SWING 
